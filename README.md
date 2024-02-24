@@ -1,0 +1,1 @@
+"Just scraped and analyzed data from Snapchat reviews using Python! 🐍📊 Utilized Google Play Store APIs to gather reviews and app information, then visualized scores, thumbs up count, and more. Check out the insights I found and the cool visualizations!
